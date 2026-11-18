@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CiscoIseLetsEncrypt/CiscoIseLetsEncrypt.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CiscoIseLetsEncrypt.Tests/CiscoIseLetsEncrypt.Tests.csproj" />
+  </Folder>
+</Solution>

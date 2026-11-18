@@ -1,0 +1,9 @@
+bin/
+obj/
+.idea/
+*.user
+logs/
+acme-account-*.pem
+TestResults/
+testise.txt
+dnsToken.txt
